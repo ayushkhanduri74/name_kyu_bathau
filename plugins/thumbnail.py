@@ -1,5 +1,5 @@
 
-# (c) Shrimadhav U K | # Modified by @LISA_FAN_LK | @UploadLinkToFileBot
+# (c) Shrimadhav U K |
 
 # the logging things
 import logging
