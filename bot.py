@@ -1,5 +1,5 @@
 
-# (c) Shrimadhav U K | Modifieded By @LISA_FAN_LK
+# (c) Shrimadhav U K |
 
 import os
 from config import Config
