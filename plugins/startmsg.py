@@ -10,7 +10,7 @@ I'm Advance Url Uploader Bot 🚀
 Click /help for more details...."""
     ADD_CAPTION_HELP = """sᴇʟᴇᴄᴛ ᴀɴ ᴜᴘʟᴏᴀᴅᴇᴅ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴏʀ ғᴏʀᴡᴀʀᴅ ᴍᴇ <b> ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ</b> ᴀɴᴅ ᴊᴜsᴛ ᴡʀɪᴛᴇ ᴛʜᴇ ᴛᴇxᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʙᴇ ᴏɴ ᴛʜᴇ ғɪʟᴇ <b>ᴀs ᴀ ʀᴇᴘʟʏ ᴛᴏ ᴛʜᴇ ғɪʟᴇ</b>ᴀɴᴅ ᴛʜᴇ ᴛᴇxᴛ ʏᴏᴜ ᴡʀᴏᴛᴇ ᴡɪʟʟ ʙᴇ ᴀᴛᴛᴀᴄʜᴇᴅ ᴀs ᴛʜᴇ ᴄᴀᴘᴛɪᴏɴ! 🤩
     
-Example: <a href='https://te.legra.ph/file/ecf5297246c5fb574d1a0.jpg'>See This!</a> 👇"""
+Example: <a href='https://te.legra.ph/file/75e0a02003b5378b55e21.jpg'>See This!</a> 👇"""
 
     INCORRECT_REQUEST = """ᴘʟᴇᴀsᴇ ᴍᴀᴋᴇ sᴜʀᴇ ʏᴏᴜ sᴜʙᴍɪᴛ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ᴄᴏʀʀᴇᴄᴛʟʏ."""
     WAIT_PROCESS_FINISH = """ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ғᴏʀ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ғɪʟᴇ ᴛᴏ ғɪɴɪsʜ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʙᴇғᴏʀᴇ sᴇɴᴅɪɴɢ ᴍᴏʀᴇ ʟɪɴᴋs!
